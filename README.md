@@ -26,7 +26,13 @@ Inspired by [Open Source Candies](https://github.com/velikanov/opensource-candie
 
 [<img src="https://tutanota.com/resources/favicon/logo-favicon-152.png" alt="Tutanota" height="16" /> Tutanota](https://tutanota.com/blog/posts/secure-email-for-non-profit/) - the business version of Tutanota free of charge - [Special offer for non-profit organizations](https://tutanota.com/blog/posts/secure-email-for-non-profit/)
 
+### Monitoring
+
+[<img src="https://www.sentry.dev/_assets2/favicon.ico" alt="Sentry" height="16" /> Sentry](https://sentry.io/welcome/) - 5M events/month - [Sentry for Good](https://sentry.io/for/good/)
+
 ### Project Management
+
+[<img src="%favicon_url%" alt="%service_name%" height="16" /> %service_name%](%service_url%) - %description% - %rules%
 
 [<img src="https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png" alt="Atlassian Jira" height="16" /> Atlassian Jira](https://www.atlassian.com/software/jira/) - free self-managed Data Center licensing or cloud subscriptions at 75% off list price - [Community License Request](https://www.atlassian.com/software/views/community-license-request)
 
