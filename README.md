@@ -28,7 +28,7 @@ Inspired by [Open Source Candies](https://github.com/velikanov/opensource-candie
 
 ### Software Engineer
 
-[<img src="https://bog-npp-two.vercel.app/favicon.ico" alt="Bits of Good" height="16" /> Bits of Good]([%service_url%](https://bitsofgood.org/)) - website, mobile application, bug fixes or maintenance - [Nonprofit Portal](https://bog-npp-two.vercel.app/ "Nonprofit Portal")
+[<img src="https://bog-npp-two.vercel.app/favicon.ico" alt="Bits of Good" height="16" /> Bits of Good](https://bitsofgood.org/) - website, mobile application, bug fixes or maintenance - [Nonprofit Portal](https://bog-npp-two.vercel.app/ "Nonprofit Portal")
 
 ### Version Control
 
