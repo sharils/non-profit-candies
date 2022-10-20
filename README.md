@@ -18,7 +18,7 @@ Inspired by [Open Source Candies](https://github.com/velikanov/opensource-candie
 
 ### Project Management
 
-[<img src="https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png" alt="Atlassian Jira" height="16" /> Atlassian Jira](https://www.atlassian.com/software/jira/) - free self-managed Data Center licensing or cloud subscriptions at 75% off list price - [Community License Request | Atlassian](https://www.atlassian.com/software/views/community-license-request)
+[<img src="https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png" alt="Atlassian Jira" height="16" /> Atlassian Jira](https://www.atlassian.com/software/jira/) - free self-managed Data Center licensing or cloud subscriptions at 75% off list price - [Community License Request](https://www.atlassian.com/software/views/community-license-request)
 
 [<img src="https://shortcut.com/favicon-32x32.png?v=6a11b8fc3ed40b8e0f9626bf2292fd39" alt="Shortcut" height="16" /> Shortcut](https://shortcut.com/) - full membership at no cost - [The Shortcut Nonprofit Plan](https://help.shortcut.com/hc/en-us/articles/212980543)
 
@@ -32,4 +32,4 @@ Inspired by [Open Source Candies](https://github.com/velikanov/opensource-candie
 
 ### Version Control
 
-[<img src="https://github.com/favicon.ico" alt="GitHub" height="16" /> GitHub](https://github.com/) - a Team account with unlimited private repositories and unlimited users - [Nonprofit request - GitHub Support](https://support.github.com/contact/nonprofit)
+[<img src="https://github.com/favicon.ico" alt="GitHub" height="16" /> GitHub](https://github.com/) - a Team account with unlimited private repositories and unlimited users - [Nonprofit request](https://support.github.com/contact/nonprofit)
