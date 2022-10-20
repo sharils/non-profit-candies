@@ -18,6 +18,8 @@ Inspired by [Open Source Candies](https://github.com/velikanov/opensource-candie
 
 ### Email
 
+[<img src="https://storage.googleapis.com/operating-anagram-8280/favicon-16x16.png" alt="Google Workspace" height="16" /> Google Workspace](https://workspace.google.com/) - 100 participant video meetings and 30 GB cloud storage per user, etc for free - [Google Workspace](https://www.google.com/nonprofits/offerings/workspace/#!%23workspace-pricing)
+
 [<img src="https://tutanota.com/resources/favicon/logo-favicon-152.png" alt="Tutanota" height="16" /> Tutanota](https://tutanota.com/blog/posts/secure-email-for-non-profit/) - the business version of Tutanota free of charge - [Special offer for non-profit organizations](https://tutanota.com/blog/posts/secure-email-for-non-profit/)
 
 ### Project Management
