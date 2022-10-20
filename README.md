@@ -16,6 +16,10 @@ Inspired by [Open Source Candies](https://github.com/velikanov/opensource-candie
 
 ---
 
+### Donation Collection
+
+[<img src="https://developer.apple.com/favicon.ico" alt="Apple Pay" height="16" /> Apple Pay](https://developer.apple.com/apple-pay/) - doesn’t charge fees or commission - [Apple Pay for Donations](https://developer.apple.com/apple-pay/nonprofits/)
+
 ### Email
 
 [<img src="https://storage.googleapis.com/operating-anagram-8280/favicon-16x16.png" alt="Google Workspace" height="16" /> Google Workspace](https://workspace.google.com/) - 100 participant video meetings and 30 GB cloud storage per user, etc for free - [Google Workspace](https://www.google.com/nonprofits/offerings/workspace/#!%23workspace-pricing)
@@ -23,6 +27,8 @@ Inspired by [Open Source Candies](https://github.com/velikanov/opensource-candie
 [<img src="https://tutanota.com/resources/favicon/logo-favicon-152.png" alt="Tutanota" height="16" /> Tutanota](https://tutanota.com/blog/posts/secure-email-for-non-profit/) - the business version of Tutanota free of charge - [Special offer for non-profit organizations](https://tutanota.com/blog/posts/secure-email-for-non-profit/)
 
 ### Project Management
+
+[<img src="%favicon_url%" alt="%service_name%" height="16" /> %service_name%](%service_url%) - %description% - %rules%
 
 [<img src="https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png" alt="Atlassian Jira" height="16" /> Atlassian Jira](https://www.atlassian.com/software/jira/) - free self-managed Data Center licensing or cloud subscriptions at 75% off list price - [Community License Request](https://www.atlassian.com/software/views/community-license-request)
 
