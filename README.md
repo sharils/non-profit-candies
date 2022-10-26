@@ -30,6 +30,10 @@ javascript:{faviconUrl=`${location.origin}/favicon.ico`;serviceName="$SERVICE_NA
 
 [<img src="https://zulip.com/static/images/favicon.svg?v=4" alt="Zulip" height="16" /> Zulip](https://zulip.com/) - 85%+ discount on Zulip Cloud Standard - [Zulip for communities](https://zulip.com/for/communities/)
 
+### Database
+
+[<img src="https://studio3t.com/favicon.ico" alt="Studio 3T" height="16" /> Studio 3T](https://studio3t.com/) - 50% nonprofit discount on all editions - [Nonprofit Discount](https://studio3t.com/discount/nonprofit/)
+
 ### Donation Collection
 
 [<img src="https://developer.apple.com/favicon.ico" alt="Apple Pay" height="16" /> Apple Pay](https://developer.apple.com/apple-pay/) - doesn’t charge fees or commission - [Apple Pay for Donations](https://developer.apple.com/apple-pay/nonprofits/)
