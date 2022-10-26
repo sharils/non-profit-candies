@@ -40,7 +40,7 @@ Inspired by [Open Source Candies](https://github.com/velikanov/opensource-candie
 
 ### Public Cloud
 
-[<img src="https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico" alt="AWS" height="16" /> AWS](https://aws.amazon.com/government-education/nonprofits/nonprofit-credit-program/) - $1,000 USD in AWS Promotional Credit each fiscal year (July 1 to June 30) - [The AWS Nonprofit Credit Program](https://aws.amazon.com/government-education/nonprofits/nonprofit-credit-program/)
+[<img src="https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico" alt="AWS" height="16" /> AWS](https://aws.amazon.com/) - $1,000 USD in AWS Promotional Credit each fiscal year (July 1 to June 30) - [The AWS Nonprofit Credit Program](https://aws.amazon.com/government-education/nonprofits/nonprofit-credit-program/)
 
 ### Social Media
 
