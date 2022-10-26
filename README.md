@@ -34,7 +34,7 @@ Inspired by [Open Source Candies](https://github.com/velikanov/opensource-candie
 
 [<img src="https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png" alt="Atlassian Jira" height="16" /> Atlassian](https://www.atlassian.com/) - free self-managed Data Center licensing or cloud subscriptions at 75% off list price - [Community License Request](https://www.atlassian.com/software/views/community-license-request)
 
-[<img src="https://quire.io/favicon.ico" alt="Quire" height="16" /> Quire](https://quire.io/) - 50% discount on any subscription plan - [Quire for Nonprofits](https://quire.io/pricing/nonprofits)
+[<img src="https://quire.io/favicon.ico" alt="Quire" height="16" /> Quire](https://shortcut.com/) - 50% discount on any subscription plan - [Quire for Nonprofits](https://quire.io/pricing/nonprofits)
 
 [<img src="https://shortcut.com/favicon-32x32.png?v=6a11b8fc3ed40b8e0f9626bf2292fd39" alt="Shortcut" height="16" /> Shortcut](https://shortcut.com/) - full membership at no cost - [The Shortcut Nonprofit Plan](https://help.shortcut.com/hc/en-us/articles/212980543)
 
@@ -42,13 +42,15 @@ Inspired by [Open Source Candies](https://github.com/velikanov/opensource-candie
 
 [<img src="https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico" alt="AWS" height="16" /> AWS](https://aws.amazon.com/) - $1,000 USD in AWS Promotional Credit each fiscal year (July 1 to June 30) - [The AWS Nonprofit Credit Program](https://aws.amazon.com/government-education/nonprofits/nonprofit-credit-program/)
 
+[<img src="https://nonprofit.microsoft.com/favicon.ico" alt="Azure" height="16" /> Azure](https://azure.microsoft.com/) - $3,500 (USD)* donated Azure services credit annually - [Nonprofit offers](https://nonprofit.microsoft.com/en-us/getting-started)
+
 ### Social Media
 
-[<img src="https://website.linktr.ee/favicon-32x32.png" alt="Linktree" height="16" /> Linktree](https://linktr.ee/) - free Linktree PRO - [Linktree for Charities](https://linktr.ee/s/about/charities/)
+[<img src="https://website.linktr.ee/favicon-32x32.png" alt="Linktree" height="16" /> Linktree](https://linktr.ee/) - free Linktree PRO - [Linktree for Charities](https://linktr.ee/s/about/charities/ "Linktree for Charities | Linktree - Linktree")
 
 ### Software Engineer
 
-[<img src="https://bog-npp-two.vercel.app/favicon.ico" alt="Bits of Good" height="16" /> Bits of Good](https://bitsofgood.org/) - new website or mobile application; complete product bug fixes or maintenance - [Nonprofit Portal](https://bog-npp-two.vercel.app/)
+[<img src="https://bog-npp-two.vercel.app/favicon.ico" alt="Bits of Good" height="16" /> Bits of Good](https://bitsofgood.org/) - new website or mobile application; complete product bug fixes or maintenance - [Nonprofit Portal](https://bog-npp-two.vercel.app/ "Nonprofit Portal")
 
 ### Version Control
 
