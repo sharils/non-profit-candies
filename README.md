@@ -24,6 +24,8 @@ javascript:{faviconUrl=`${location.origin}/favicon.ico`;serviceName="$SERVICE_NA
 
 ### Chat
 
+[<img src="https://www.chatwoot.com/favicon/favicon-16x16.png" alt="Chatwoot" height="16" /> Chatwoot](https://www.chatwoot.com/) - Startups plan free of cost - [Chatwoot Pricing](https://www.chatwoot.com/pricing/)
+
 [<img src="https://slack.com/favicon.ico" alt="Slack" height="16" /> Slack](https://slack.com/) - 250 or fewer members a free upgrade, and an 85% discount above that size - [Apply for the Slack for Nonprofits discount](https://slack.com/help/articles/204368833-Apply-for-the-Slack-for-Nonprofits-discount)
 
 [<img src="https://zulip.com/favicon.ico" alt="Zulip" height="16" /> Zulip](https://zulip.com/) - 85%+ discount on Zulip Cloud Standard - [Zulip for communities](https://zulip.com/for/communities/)
