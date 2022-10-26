@@ -42,7 +42,7 @@ Inspired by [Open Source Candies](https://github.com/velikanov/opensource-candie
 
 [<img src="https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico" alt="AWS" height="16" /> AWS](https://aws.amazon.com/) - $1,000 USD in AWS Promotional Credit each fiscal year (July 1 to June 30) - [The AWS Nonprofit Credit Program](https://aws.amazon.com/government-education/nonprofits/nonprofit-credit-program/)
 
-[<img src="https://nonprofit.microsoft.com/favicon.ico" alt="Azure" height="16" /> Azure](https://azure.microsoft.com/) - $3,500 (USD)* donated Azure services credit annually - [Nonprofit offers](https://nonprofit.microsoft.com/en-us/getting-started)
+[<img src="https://nonprofit.microsoft.com/favicon.ico" alt="Azure" height="16" /> Azure](https://azure.microsoft.com/) - $3,500 (USD) donated Azure services credit annually - [Nonprofit offers](https://nonprofit.microsoft.com/en-us/getting-started)
 
 ### Social Media
 
