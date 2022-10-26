@@ -12,6 +12,12 @@ Inspired by [Open Source Candies](https://github.com/velikanov/opensource-candie
 [<img src="%favicon_url%" alt="%service_name%" height="16" /> %service_name%](%service_url%) - %description% - %rules%
 ```
 
+or run the following bookmarklet and copy the prompt in the rules page
+
+```
+javascript:{faviconUrl=`${location.origin}/favicon.ico`;serviceName="SERVICE_NAME";serviceUrl=`${location.origin}/`;description=String(getSelection());rulesTitle=document.title;rulesUrl=String(location);markdown=`[<img%20src="${faviconUrl}"%20alt="${serviceName}"%20height="16"%20/>%20${serviceName}](${serviceUrl})%20-%20${description}%20-%20[${rulesTitle}](${rulesUrl})`;void%20prompt(markdown,markdown);}
+```
+
 ###### In alphabetical order, please
 
 ---
@@ -42,7 +48,7 @@ Inspired by [Open Source Candies](https://github.com/velikanov/opensource-candie
 
 [<img src="https://a0.awsstatic.com/libra-css/images/site/fav/favicon.ico" alt="AWS" height="16" /> AWS](https://aws.amazon.com/) - $1,000 USD in AWS Promotional Credit each fiscal year (July 1 to June 30) - [The AWS Nonprofit Credit Program](https://aws.amazon.com/government-education/nonprofits/nonprofit-credit-program/)
 
-[<img src="https://nonprofit.microsoft.com/favicon.ico" alt="Azure" height="16" /> Azure](https://azure.microsoft.com/) - $3,500 (USD) donated Azure services credit annually - [Nonprofit offers](https://nonprofit.microsoft.com/en-us/getting-started)
+[<img src="https://nonprofit.microsoft.com/favicon.ico" alt="Azure" height="16" /> Azure](https://azure.microsoft.com/) - $3,500 (USD)* donated Azure services credit annually - [Nonprofit offers](https://nonprofit.microsoft.com/en-us/getting-started)
 
 ### Social Media
 
