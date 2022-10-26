@@ -28,7 +28,7 @@ javascript:{faviconUrl=`${location.origin}/favicon.ico`;serviceName="$SERVICE_NA
 
 [<img src="https://slack.com/favicon.ico" alt="Slack" height="16" /> Slack](https://slack.com/) - 250 or fewer members a free upgrade, and an 85% discount above that size - [Apply for the Slack for Nonprofits discount](https://slack.com/help/articles/204368833-Apply-for-the-Slack-for-Nonprofits-discount)
 
-[<img src="https://zulip.com/favicon.ico" alt="Zulip" height="16" /> Zulip](https://zulip.com/) - 85%+ discount on Zulip Cloud Standard - [Zulip for communities](https://zulip.com/for/communities/)
+[<img src="https://zulip.com/static/images/favicon.svg?v=4" alt="Zulip" height="16" /> Zulip](https://zulip.com/) - 85%+ discount on Zulip Cloud Standard - [Zulip for communities](https://zulip.com/for/communities/)
 
 ### Donation Collection
 
