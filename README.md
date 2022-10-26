@@ -34,6 +34,8 @@ Inspired by [Open Source Candies](https://github.com/velikanov/opensource-candie
 
 [<img src="https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png" alt="Atlassian Jira" height="16" /> Atlassian Jira](https://www.atlassian.com/software/jira/) - free self-managed Data Center licensing or cloud subscriptions at 75% off list price - [Community License Request](https://www.atlassian.com/software/views/community-license-request)
 
+[<img src="https://quire.io/favicon.ico" alt="Quire" height="16" /> Quire](https://shortcut.com/) - 50% discount on any subscription plan - [Quire for Nonprofits](https://quire.io/pricing/nonprofits)
+
 [<img src="https://shortcut.com/favicon-32x32.png?v=6a11b8fc3ed40b8e0f9626bf2292fd39" alt="Shortcut" height="16" /> Shortcut](https://shortcut.com/) - full membership at no cost - [The Shortcut Nonprofit Plan](https://help.shortcut.com/hc/en-us/articles/212980543)
 
 ### Public Cloud
