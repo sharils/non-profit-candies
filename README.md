@@ -34,6 +34,10 @@ javascript:{faviconUrl=`${location.origin}/favicon.ico`;serviceName="$SERVICE_NA
 
 [<img src="https://studio3t.com/favicon.ico" alt="Studio 3T" height="16" /> Studio 3T](https://studio3t.com/) - 50% nonprofit discount on all editions - [Nonprofit Discount](https://studio3t.com/discount/nonprofit/)
 
+### Documentation
+
+[<img src="https://miraheze.org/favicon.ico" alt="Miraheze" height="16" /> Miraheze](https://miraheze.org/) - ad free, 100% open-source, and free wiki hosting platform powered by MediaWiki - [FAQ](https://meta.miraheze.org/wiki/FAQ)
+
 ### Donation Collection
 
 [<img src="https://developer.apple.com/favicon.ico" alt="Apple Pay" height="16" /> Apple Pay](https://developer.apple.com/apple-pay/) - doesn’t charge fees or commission - [Apple Pay for Donations](https://developer.apple.com/apple-pay/nonprofits/)
