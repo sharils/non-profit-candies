@@ -68,6 +68,10 @@ javascript:{faviconUrl=`${location.origin}/favicon.ico`;serviceName="$SERVICE_NA
 
 [<img src="https://nonprofit.microsoft.com/favicon.ico" alt="Azure" height="16" /> Azure](https://azure.microsoft.com/) - $3,500 (USD) donated Azure services credit annually - [Nonprofit offers](https://nonprofit.microsoft.com/en-us/getting-started)
 
+### SSL Certificate
+
+[<img src="https://letsencrypt.org/favicon.ico" alt="Let’s Encrypt" height="16" /> Let’s Encrypt](https://letsencrypt.org/) - trusted certificate at zero cost - [About Let's Encrypt](https://letsencrypt.org/about/)
+
 ### Social Media
 
 [<img src="https://website.linktr.ee/favicon-32x32.png" alt="Linktree" height="16" /> Linktree](https://linktr.ee/) - free Linktree PRO - [Linktree for Charities](https://linktr.ee/s/about/charities/ "Linktree for Charities | Linktree - Linktree")
