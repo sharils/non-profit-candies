@@ -46,6 +46,8 @@ javascript:{faviconUrl=`${location.origin}/favicon.ico`;serviceName="$SERVICE_NA
 
 ### Monitoring
 
+[<img src="https://newrelic.com/favicon.ico" alt="New Relic" height="16" /> New Relic](https://newrelic.com/) - 5 full stack observability seats, and 1 TB of data ingest per month for free - [Observability for Good](https://newrelic.com/social-impact/signup)
+
 [<img src="https://www.sentry.dev/_assets2/favicon.ico" alt="Sentry" height="16" /> Sentry](https://sentry.io/) - 5M events/month - [Sentry for Good](https://sentry.io/for/good/)
 
 ### Project Management
