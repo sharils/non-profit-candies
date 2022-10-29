@@ -22,6 +22,10 @@ javascript:{faviconUrl=`${location.origin}/favicon.ico`;serviceName="$SERVICE_NA
 
 ---
 
+### App Store
+
+[<img src="https://developer.apple.com/favicon.ico" alt="Apple Developer" height="16" /> Apple Developer](https://developer.apple.com/) - Apple Developer Program at no cost - [Apple Developer Program Membership Fee Waivers](https://developer.apple.com/support/membership-fee-waiver/)
+
 ### Chat
 
 [<img src="https://www.chatwoot.com/favicon/favicon-16x16.png" alt="Chatwoot" height="16" /> Chatwoot](https://www.chatwoot.com/) - Startups plan free of cost - [Chatwoot Pricing](https://www.chatwoot.com/pricing/)
