@@ -28,7 +28,7 @@ javascript:{faviconUrl=`${location.origin}/favicon.ico`;serviceName="$SERVICE_NA
 
 ### CAPTCHA
 
-[<img src="https://www.cloudflare.com/favicon.ico" alt="$SERVICE_NAME" height="16" /> $SERVICE_NAME](https://www.cloudflare.com/) - free without having to be a Cloudflare customer - [Turnstile](https://www.cloudflare.com/lp/turnstile/)
+[<img src="https://www.cloudflare.com/favicon.ico" alt="Cloudflare Turnstile" height="16" /> Cloudflare Turnstile](https://www.cloudflare.com/) - free without having to be a Cloudflare customer - [Turnstile](https://www.cloudflare.com/lp/turnstile/)
 
 ### Chat
 
