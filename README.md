@@ -26,6 +26,10 @@ javascript:{faviconUrl=`${location.origin}/favicon.ico`;serviceName="$SERVICE_NA
 
 [<img src="https://developer.apple.com/favicon.ico" alt="Apple Developer" height="16" /> Apple Developer](https://developer.apple.com/) - Apple Developer Program at no cost - [Apple Developer Program Membership Fee Waivers](https://developer.apple.com/support/membership-fee-waiver/)
 
+### Book
+
+[<img src="https://openlibrary.org/favicon.ico" alt="Open Library" height="16" /> Open Library](https://openlibrary.org/) - books to be borrowed by one patron at a time from anywhere in the world for free - [Borrowing Books Through Open Library](https://openlibrary.org/help/faq/borrow)
+
 ### CAPTCHA
 
 [<img src="https://www.cloudflare.com/favicon.ico" alt="Cloudflare Turnstile" height="16" /> Cloudflare Turnstile](https://www.cloudflare.com/) - free without having to be a Cloudflare customer - [Turnstile](https://www.cloudflare.com/lp/turnstile/)
