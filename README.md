@@ -94,6 +94,10 @@ javascript:{faviconUrl=`${location.origin}/favicon.ico`;serviceName="$SERVICE_NA
 
 [<img src="https://bog-npp-two.vercel.app/favicon.ico" alt="Bits of Good" height="16" /> Bits of Good](https://bitsofgood.org/) - new website or mobile application; complete product bug fixes or maintenance - [Nonprofit Portal](https://bog-npp-two.vercel.app/ "Nonprofit Portal")
 
+### Testing
+
+[<img src="https://wallabyjs.com/assets/img/favicon.ico?v=2" alt="Wallaby.js" height="16" /> Wallaby.js](https://wallabyjs.com/) - 40% off standard commercial pricing - [Wallaby Store](https://wallabyjs.com/purchase/#)
+
 ### Training
 
 [<img src="https://www.udemy.com/staticx/udemy/images/v7/favicon.ico" alt="Udemy" height="16" /> Udemy](https://www.udemy.com/) - a special, more affordable, pricing of their Udemy Business Enterprise Plan - [Nonprofit Plan](https://business-support.udemy.com/hc/en-us/articles/115016125628-Nonprofit-Plan-FAQ)
