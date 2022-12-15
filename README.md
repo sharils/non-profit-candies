@@ -68,6 +68,10 @@ javascript:{faviconUrl=`${location.origin}/favicon.ico`;serviceName="$SERVICE_NA
 
 [<img src="https://www.sentry.dev/_assets2/favicon.ico" alt="Sentry" height="16" /> Sentry](https://sentry.io/) - 5M events/month - [Sentry for Good](https://sentry.io/for/good/)
 
+### Password
+
+[<img src="https://bitwarden.com/favicon.ico" alt="Bitwarden" height="16" /> Bitwarden](https://bitwarden.com/) - discount to all educational and non-profit organizations - [Contact Business Sales](https://bitwarden.com/contact-sales/)
+
 ### Project Management
 
 [<img src="https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png" alt="Atlassian Jira" height="16" /> Atlassian](https://www.atlassian.com/) - free self-managed Data Center licensing or cloud subscriptions at 75% off list price - [Community License Request](https://www.atlassian.com/software/views/community-license-request)
