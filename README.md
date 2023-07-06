@@ -62,6 +62,10 @@ javascript:{faviconUrl=`${location.origin}/favicon.ico`;serviceName="$SERVICE_NA
 
 [<img src="https://tutanota.com/resources/favicon/logo-favicon-152.png" alt="Tutanota" height="16" /> Tutanota](https://tutanota.com/) - the business version of Tutanota free of charge - [Special offer for non-profit organizations](https://tutanota.com/blog/posts/secure-email-for-non-profit/)
 
+### Marketing
+
+[<img src="https://videoask.zendesk.com/favicon.ico" alt="VideoAsk" height="16" /> VideoAsk](https://www.videoask.com/) - 25% discount on any of the monthly plans - [Non-profit, educator, and student discounts](https://videoask.zendesk.com/hc/en-us/articles/4406088152852-Non-profit-educator-and-student-discounts-at-VideoAsk)
+
 ### Monitoring
 
 [<img src="https://newrelic.com/favicon.ico" alt="New Relic" height="16" /> New Relic](https://newrelic.com/) - 5 full stack observability seats, and 1 TB of data ingest per month for free - [Observability for Good](https://newrelic.com/social-impact/signup)
