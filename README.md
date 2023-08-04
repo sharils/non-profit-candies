@@ -48,6 +48,8 @@ javascript:{faviconUrl=`${location.origin}/favicon.ico`;serviceName="$SERVICE_NA
 
 ### Documentation
 
+[<img src="https://obsidian.md/favicon.ico" alt="Obsidian" height="16" /> Obsidian](https://obsidian.md/) - 40% discount on Obsidian Sync and Publish - [Pricing - Obsidian](https://obsidian.md/pricing)
+
 [<img src="view-source:https://hackmd.io/favicon.png" alt="HackMD" height="16" /> HackMD](https://hackmd.io/) - Prime Team plan - [How to apply for Non-profit Sponsorship Program?](https://hackmd.io/@docs/NPOplan)
 
 [<img src="https://miraheze.org/favicon.ico" alt="Miraheze" height="16" /> Miraheze](https://miraheze.org/) - ad free, 100% open-source, and free wiki hosting platform powered by MediaWiki - [FAQ](https://meta.miraheze.org/wiki/FAQ)
